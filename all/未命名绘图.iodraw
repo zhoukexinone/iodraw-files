@@ -19,6 +19,12 @@
         <mxCell id="ShRvWBz_2yTP8_ZI3lkX-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ShRvWBz_2yTP8_ZI3lkX-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ShRvWBz_2yTP8_ZI3lkX-3" target="ShRvWBz_2yTP8_ZI3lkX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="210" as="sourcePoint" />
+            <mxPoint x="490" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
